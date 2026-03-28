@@ -3,6 +3,7 @@
 This repository contains the official implementation of **PRISM**, a plug-and-play diffusion framework for blind inverse problems (e.g., blind motion deblurring) with a measurement‑conditioned diffusion prior.
 
 Paper: https://arxiv.org/pdf/2509.16106
+
 ---
 
 ### 1) Environment setup
